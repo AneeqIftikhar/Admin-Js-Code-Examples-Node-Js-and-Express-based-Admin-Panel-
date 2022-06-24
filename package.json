@@ -1,0 +1,20 @@
+{
+  "name": "Admin-Js-Code-Examples-Node-Js-and-Express-based-Admin-Panel-",
+  "version": "1.0.0",
+  "description": "Admin Js is one of the best Admin Panels available for Node and Express based Projects. It automatically generates crud operations for you db models. This repository will help you implement Admin Js with code examples that are missing from Documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AneeqIftikhar/Admin-Js-Code-Examples-Node-Js-and-Express-based-Admin-Panel-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AneeqIftikhar/Admin-Js-Code-Examples-Node-Js-and-Express-based-Admin-Panel-/issues"
+  },
+  "homepage": "https://github.com/AneeqIftikhar/Admin-Js-Code-Examples-Node-Js-and-Express-based-Admin-Panel-#readme"
+}
