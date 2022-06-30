@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AneeqIftikhar/Admin-Js-Code-Examples-Node-Js-and-Express-based-Admin-Panel-/issues"
   },
-  "homepage": "https://github.com/AneeqIftikhar/Admin-Js-Code-Examples-Node-Js-and-Express-based-Admin-Panel-#readme"
+  "homepage": "https://github.com/AneeqIftikhar/Admin-Js-Code-Examples-Node-Js-and-Express-based-Admin-Panel-#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
