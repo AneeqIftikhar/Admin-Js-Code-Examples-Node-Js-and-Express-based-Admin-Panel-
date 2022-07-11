@@ -1,3 +1,12 @@
 {
-    "name": "Admin Js Sequalize Node Js "
+    "name": "Admin Js Sequalize Node Js ",
+    "database":
+    {
+        "connection": "",
+        "host": "",
+        "port": "",
+        "name": "",
+        "username":"",
+        "password": ""
+    }
 }
